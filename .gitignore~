@@ -1,9 +1,27 @@
+<<<<<<< HEAD
+console.devmode.log
 .cache
 bin/
 target/
 lib_managed/
 src_managed/
+project/target/
 project/boot/
 .project
 .classpath
 .settings
+=======
+*.class
+*.log
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+>>>>>>> 973b5889e372e5888d9ccf67151f2e64ae4264c6
