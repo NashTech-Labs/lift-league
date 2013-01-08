@@ -1,0 +1,11 @@
+console.devmode.log
+.cache
+bin/
+target/
+lib_managed/
+src_managed/
+project/target/
+project/boot/
+.project
+.classpath
+.settings
